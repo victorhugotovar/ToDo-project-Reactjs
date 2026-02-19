@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/static/css/main.1b54329e.css",
-    "main.js": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/static/js/main.28a8c8a3.js",
-    "index.html": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/index.html",
-    "static/media/delete.svg": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
-    "static/media/check.svg": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.1b54329e.css.map": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/static/css/main.1b54329e.css.map",
-    "main.28a8c8a3.js.map": "/Users/vihut.DESKTOP-HP2JOT0/curso-react-intro/build/static/js/main.28a8c8a3.js.map"
+    "main.css": "/victorhugotovar/ToDo-project-Reactjs/static/css/main.1b54329e.css",
+    "main.js": "/victorhugotovar/ToDo-project-Reactjs/static/js/main.30580583.js",
+    "index.html": "/victorhugotovar/ToDo-project-Reactjs/index.html",
+    "static/media/delete.svg": "/victorhugotovar/ToDo-project-Reactjs/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/victorhugotovar/ToDo-project-Reactjs/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.1b54329e.css.map": "/victorhugotovar/ToDo-project-Reactjs/static/css/main.1b54329e.css.map",
+    "main.30580583.js.map": "/victorhugotovar/ToDo-project-Reactjs/static/js/main.30580583.js.map"
   },
   "entrypoints": [
     "static/css/main.1b54329e.css",
-    "static/js/main.28a8c8a3.js"
+    "static/js/main.30580583.js"
   ]
 }
